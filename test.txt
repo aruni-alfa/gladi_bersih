@@ -1,3 +1,15 @@
 hello
 
 export AWS_SESSION_TOKEN=PASTE_SESSION_TOKEN
+
+Pakai keyword ini:
+
+terraform aws session token credentials
+aws temporary credentials terraform
+aws sts token terraform configure
+
+👉 Ini relate banget sama:
+
+Access Key
+Secret Key
+Session Token
