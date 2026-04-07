@@ -173,3 +173,8 @@ variable "tags" {
   type        = map(string)
   default     = {}
 } 
+
+terraform init -upgrade
+terraform validate
+terraform plan
+terraform apply
